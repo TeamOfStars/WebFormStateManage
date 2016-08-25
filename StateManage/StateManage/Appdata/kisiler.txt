@@ -1,0 +1,94 @@
+﻿version="1.0" encoding="utf-8"version="1.0" encoding="utf-8"
+
+  
+    Furkan
+    Közen
+    fk@gmail.com
+    124
+    ERKEK
+  
+  
+    elif
+    öztürk
+    elif@gmail.com
+    23
+    kadın
+  
+  
+    elif
+    öztürk
+    
+    
+    23
+    kadın
+  
+  
+    ef
+    f
+    
+    
+    433
+    ERKEK
+  
+
+  <kisi>
+    <ad>Furkan</ad>
+    <soyad>Közen</soyad>
+    <mail>fk@gmail.com</mail>
+    <tel>124</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>elif@gmail.com</mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>
+    </mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>ef</ad>
+    <soyad>f</soyad>
+    <mail>
+    </mail>
+    <tel>433</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>
+
+  <kisi>
+    <ad>Furkan</ad>
+    <soyad>Közen</soyad>
+    <mail>fk@gmail.com</mail>
+    <tel>124</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>elif@gmail.com</mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>
+    </mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>ef</ad>
+    <soyad>f</soyad>
+    <mail>
+    </mail>
+    <tel>433</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>

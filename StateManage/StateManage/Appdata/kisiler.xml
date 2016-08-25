@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kisiler>
+  <kisi>
+    <ad>Furkan</ad>
+    <soyad>Közen</soyad>
+    <mail>fk@gmail.com</mail>
+    <tel>124</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>elif@gmail.com</mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>elif</ad>
+    <soyad>öztürk</soyad>
+    <mail>
+    </mail>
+    <tel>23</tel>
+    <cinsiyet>kadın</cinsiyet>
+  </kisi>
+  <kisi>
+    <ad>ef</ad>
+    <soyad>f</soyad>
+    <mail>
+    </mail>
+    <tel>433</tel>
+    <cinsiyet>ERKEK</cinsiyet>
+  </kisi>
+</kisiler>

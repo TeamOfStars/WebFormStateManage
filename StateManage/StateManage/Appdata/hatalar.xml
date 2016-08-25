@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <errorlog>
+    <errormessage>'viewstateenable' özniteliği ayrıştırma hatası: 'StateManage.ViewState' türünün 'viewstateenable' adlı bir ortak özelliği yok.</errormessage>
+    <date>18 Ağustos 2016 Perşembe</date>
+    <IP>::1</IP>
+  </errorlog>
+</logs>
